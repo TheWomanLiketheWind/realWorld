@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        Hello realworld_nuxt HHHHHewewew
+        Hello realworld_nuxt HHHHHewewewdsada
       </h1>
       <div class="links">
         <a href="https://nuxtjs.org/"
